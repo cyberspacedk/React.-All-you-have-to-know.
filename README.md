@@ -1,6 +1,6 @@
 # React Interview Questions & Answers
 
-> Click :star: 
+> Click :star: :star: :star:
 
 ### Table of Contents
 
@@ -3161,7 +3161,7 @@
 
      Let's take an example of fetching specific account as an AJAX call using *fetch API*:
 
-     ```javascript
+     ```js
      export function fetchAccount(id) {
        return dispatch => {
          dispatch(setLoadingAccountState()) // Show a loading spinner
